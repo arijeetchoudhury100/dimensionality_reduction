@@ -1,2 +1,2 @@
 # dimensionality_reduction
-# implementation of PCA using numpy. Points are randomly generated using multivariate normal distibution
+## implementation of PCA using numpy. Points are randomly generated using multivariate normal distibution
